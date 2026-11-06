@@ -114,7 +114,7 @@ const kishanth = {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=8A2BE2&currStreakLabel=24c6dc" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=kishingit&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=8A2BE2&currStreakLabel=24c6dc" alt="GitHub streak"/>
 
 </div>
 
@@ -126,9 +126,9 @@ const kishanth = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg?v=2"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg?v=2"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg?v=2"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishingit/kishingit/output/github-contribution-grid-snake-dark.svg?v=2"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishingit/kishingit/output/github-contribution-grid-snake.svg?v=2"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kishingit/kishingit/output/github-contribution-grid-snake-dark.svg?v=2"/>
   </picture>
 </div>
 
